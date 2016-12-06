@@ -6,6 +6,7 @@
 // Declaration of Copyright
 // Copyright (c) for pressure sensor 2009 MEAS Switzerland
 // Edited 2015 Johann Lange
+// Edited 2016 Gerrit Brinkmann
 // @brief This C code is for starter reference only. It was based on the
 // MEAS Switzerland MS56xx pressure sensor modules and Atmel Atmega644p
 // microcontroller code and has been translated by Johann Lange and Gerrit Brinkmann
